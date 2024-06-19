@@ -1,0 +1,24 @@
+{
+  "name": "react-namaste-seires",
+  "version": "1.0.0",
+  "description": "this is namste react by Akshay saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushManyan/first_react.git"
+  },
+  "keywords": [
+    "react",
+    "namste",
+    "react"
+  ],
+  "author": "ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushManyan/first_react/issues"
+  },
+  "homepage": "https://github.com/AyushManyan/first_react#readme"
+}
